@@ -8,7 +8,7 @@ import java.awt.Color;
 public class Convert {
 
     // The path can be customized
-    public static final String IMG = "1.jpg";
+    public static final String IMG = "example.jpg";
 
     public static void main(String[] args) throws IOException {
         // Get image's RGB info
